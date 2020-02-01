@@ -1,2 +1,2 @@
 # revel-market-server
- MobileLab
+ revel-market-server
